@@ -1,0 +1,3 @@
+INSERT INTO `batting_style` VALUES (1,'RHB'),(2,'LHB');
+INSERT INTO `bowling_style` VALUES (1,'Right Arm Fast'),(2,'Left Arm Fast'),(3,'Right Arm Spin'),(4,'Left Arm Spin'),(5,'Right Arm Medium'),(6,'Left Arm Medium');
+--INSERT INTO `player` VALUES (1,'Manhar',1,5,'9888878805',36),(2,'Jaswant',1,5,'9780195677',35),(3,'Lucky',1,3,'9814366006',36),(4,'Rajwant',1,1,'9464533884',32),(5,'Kulwant',1,5,'9914320915',37),(6,'Goldy',1,5,'7973179537',25),(7,'Kuljeet',1,6,'9592960804',25),(8,'Harinder',1,1,'9876823464',28),(9,'Surinder',1,3,'9855857737',38),(10,'Anoop',1,5,'7837964022',36),(11,'Guru',1,1,'7009749837',30),(12,'Rajeev',1,5,'9780031863',50),(13,'Moksh',1,3,'9988431863',21);
